@@ -1,0 +1,25 @@
+{
+  "swagger": "2.0",
+  "securitykeys": [
+    {
+      "oauth_token": "query",
+      "key": "query"
+    }
+  ],
+  "schemes": [
+    "https"
+  ],
+  "host": "www.googleapis.com",
+  "basePath": "/drive/v3",
+  "info": {
+    "contact": {
+      "name": "Google",
+      "url": "https://google.com"
+    },
+    "description": "Manages files in Drive including uploading, downloading, searching, detecting changes, and updating sharing permissions.",
+    "title": "Google Drive",
+    "version": "v3"
+  },
+  "paths": {},
+  "definitions": {}
+}
