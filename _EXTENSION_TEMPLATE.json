@@ -20,6 +20,110 @@
     "title": "Google Drive",
     "version": "v3"
   },
-  "paths": {},
+  "paths": {
+    "/about": {
+      "get": {
+        "summary": "Get Information",
+        "description": "Gets information about the user.",
+        "operationId": "drive.about.get",
+        "parameters": [
+          {
+            "default": false,
+            "description": "specific parameter for the get method.",
+            "in": "query",
+            "name": "includeCorpusRemovals",
+            "type": "boolean"
+          },
+          {
+            "default": true,
+            "description": "specific parameter for the get method.",
+            "in": "query",
+            "name": "includeRemoved",
+            "type": "boolean"
+          },
+          {
+            "default": false,
+            "description": "specific parameter for the get method.",
+            "in": "query",
+            "name": "includeTeamDriveItems",
+            "type": "boolean"
+          },
+          {
+            "default": 100,
+            "description": "specific parameter for the get method.",
+            "in": "query",
+            "maximum": 1000,
+            "minimum": 1,
+            "name": "pageSize",
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "response generic description",
+            "schema": {
+              "description": "response description.",
+              "properties": {
+                "key1": {
+                  "description": "description key1",
+                  "type": "boolean"
+                },
+                "key2": {
+                  "description": "description key2",
+                  "type": "string"
+                },
+                "key3": {
+                  "description": "description key3.",
+                  "format": "int64",
+                  "type": "string"
+                }
+              },
+              "type": "object"
+            }
+          }
+        },
+        "isPopular": true,
+        "type": "endpoint",
+        "isActive": true
+      },
+      "parameters": [
+        {
+          "default": "json",
+          "description": "example parameter in query. multi choices",
+          "enum": [
+            "json"
+          ],
+          "in": "query",
+          "name": "param1",
+          "type": "string"
+        },
+        {
+          "description": "example parameter in header.",
+          "in": "header",
+          "name": "param2",
+          "type": "string"
+        },
+        {
+          "description": "example parameter in path.",
+          "in": "path",
+          "name": "param3",
+          "type": "string"
+        },
+        {
+          "description": "API key. example of security parameter.",
+          "in": "query",
+          "name": "key",
+          "type": "string"
+        },
+        {
+          "description": "OAuth 2.0. example of security parameter.",
+          "in": "query",
+          "name": "oauth_token",
+          "type": "string"
+        }
+      ]
+    }
+
+  },
   "definitions": {}
 }
