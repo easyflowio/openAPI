@@ -1,0 +1,4502 @@
+[
+  {
+    "system_id": 1,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 2,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 3,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 4,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 5,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 6,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 7,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 8,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 9,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-30",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 10,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-31",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 11,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 12,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-2",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 13,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-3",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 14,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-4",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 15,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-5",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 16,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-6",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 17,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-7",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 18,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-8",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 19,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-9",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 20,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-10",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 21,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-11",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 22,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-12",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 23,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-13",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 24,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-14",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 25,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-15",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 26,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-16",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 27,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-17",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 28,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-18",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 29,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-19",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 30,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-20",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 31,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-21",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 32,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 33,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 34,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-24",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 35,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-25",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 36,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-26",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 37,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-27",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 38,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-28",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 39,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-29",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 40,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-1",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 41,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-2",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 42,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-3",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 43,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-4",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 44,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-5",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 45,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-6",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 46,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-7",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 47,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-8",
+    "confirmed": 4,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 48,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-9",
+    "confirmed": 4,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 49,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-10",
+    "confirmed": 5,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 50,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-11",
+    "confirmed": 7,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 51,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-12",
+    "confirmed": 7,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 52,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-13",
+    "confirmed": 7,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 53,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-14",
+    "confirmed": 11,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 54,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-15",
+    "confirmed": 16,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 55,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-16",
+    "confirmed": 21,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 56,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-17",
+    "confirmed": 22,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 57,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-18",
+    "confirmed": 22,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 58,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-19",
+    "confirmed": 22,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 59,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-20",
+    "confirmed": 24,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 60,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-21",
+    "confirmed": 24,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 61,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-22",
+    "confirmed": 40,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 62,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-23",
+    "confirmed": 40,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 63,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-24",
+    "confirmed": 74,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 64,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-25",
+    "confirmed": 84,
+    "deaths": 2,
+    "recovered": 2
+  },
+  {
+    "system_id": 65,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-26",
+    "confirmed": 94,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 66,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-27",
+    "confirmed": 110,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 67,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-28",
+    "confirmed": 110,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 68,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-29",
+    "confirmed": 120,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 69,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-30",
+    "confirmed": 170,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 70,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-31",
+    "confirmed": 174,
+    "deaths": 4,
+    "recovered": 5
+  },
+  {
+    "system_id": 71,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-1",
+    "confirmed": 237,
+    "deaths": 4,
+    "recovered": 5
+  },
+  {
+    "system_id": 72,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-2",
+    "confirmed": 273,
+    "deaths": 6,
+    "recovered": 10
+  },
+  {
+    "system_id": 73,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-3",
+    "confirmed": 281,
+    "deaths": 6,
+    "recovered": 10
+  },
+  {
+    "system_id": 74,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-4",
+    "confirmed": 299,
+    "deaths": 7,
+    "recovered": 10
+  },
+  {
+    "system_id": 75,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-5",
+    "confirmed": 349,
+    "deaths": 7,
+    "recovered": 15
+  },
+  {
+    "system_id": 76,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-6",
+    "confirmed": 367,
+    "deaths": 11,
+    "recovered": 18
+  },
+  {
+    "system_id": 77,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-7",
+    "confirmed": 423,
+    "deaths": 14,
+    "recovered": 18
+  },
+  {
+    "system_id": 78,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-8",
+    "confirmed": 444,
+    "deaths": 14,
+    "recovered": 29
+  },
+  {
+    "system_id": 79,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-9",
+    "confirmed": 484,
+    "deaths": 15,
+    "recovered": 32
+  },
+  {
+    "system_id": 80,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-10",
+    "confirmed": 521,
+    "deaths": 15,
+    "recovered": 32
+  },
+  {
+    "system_id": 81,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-11",
+    "confirmed": 555,
+    "deaths": 18,
+    "recovered": 32
+  },
+  {
+    "system_id": 82,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-12",
+    "confirmed": 607,
+    "deaths": 18,
+    "recovered": 32
+  },
+  {
+    "system_id": 83,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-13",
+    "confirmed": 665,
+    "deaths": 21,
+    "recovered": 32
+  },
+  {
+    "system_id": 84,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-14",
+    "confirmed": 714,
+    "deaths": 23,
+    "recovered": 40
+  },
+  {
+    "system_id": 85,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-15",
+    "confirmed": 784,
+    "deaths": 25,
+    "recovered": 43
+  },
+  {
+    "system_id": 86,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-16",
+    "confirmed": 840,
+    "deaths": 30,
+    "recovered": 54
+  },
+  {
+    "system_id": 87,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-17",
+    "confirmed": 906,
+    "deaths": 30,
+    "recovered": 99
+  },
+  {
+    "system_id": 88,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-18",
+    "confirmed": 933,
+    "deaths": 30,
+    "recovered": 112
+  },
+  {
+    "system_id": 89,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-19",
+    "confirmed": 996,
+    "deaths": 33,
+    "recovered": 131
+  },
+  {
+    "system_id": 90,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-20",
+    "confirmed": 1026,
+    "deaths": 36,
+    "recovered": 135
+  },
+  {
+    "system_id": 91,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-21",
+    "confirmed": 1092,
+    "deaths": 36,
+    "recovered": 150
+  },
+  {
+    "system_id": 92,
+    "date_created": "2020-04-24T04:10:37.428996+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-22",
+    "confirmed": 1176,
+    "deaths": 40,
+    "recovered": 166
+  },
+  {
+    "system_id": 93,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 94,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 95,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 96,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 97,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 98,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 99,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 100,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 101,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-30",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 102,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-1-31",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 103,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 104,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-2",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 105,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-3",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 106,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-4",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 107,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-5",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 108,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-6",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 109,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-7",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 110,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-8",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 111,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-9",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 112,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-10",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 113,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-11",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 114,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-12",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 115,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-13",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 116,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-14",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 117,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-15",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 118,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-16",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 119,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-17",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 120,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-18",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 121,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-19",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 122,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-20",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 123,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-21",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 124,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 125,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 126,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-24",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 127,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-25",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 128,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-26",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 129,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-27",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 130,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-28",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 131,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-2-29",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 132,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-1",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 133,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-2",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 134,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-3",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 135,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-4",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 136,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-5",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 137,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-6",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 138,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-7",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 139,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-8",
+    "confirmed": 4,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 140,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-9",
+    "confirmed": 4,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 141,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-10",
+    "confirmed": 5,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 142,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-11",
+    "confirmed": 7,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 143,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-12",
+    "confirmed": 7,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 144,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-13",
+    "confirmed": 7,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 145,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-14",
+    "confirmed": 11,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 146,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-15",
+    "confirmed": 16,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 147,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-16",
+    "confirmed": 21,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 148,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-17",
+    "confirmed": 22,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 149,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-18",
+    "confirmed": 22,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 150,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-19",
+    "confirmed": 22,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 151,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-20",
+    "confirmed": 24,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 152,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-21",
+    "confirmed": 24,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 153,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-22",
+    "confirmed": 40,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 154,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-23",
+    "confirmed": 40,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 155,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-24",
+    "confirmed": 74,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 156,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-25",
+    "confirmed": 84,
+    "deaths": 2,
+    "recovered": 2
+  },
+  {
+    "system_id": 157,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-26",
+    "confirmed": 94,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 158,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-27",
+    "confirmed": 110,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 159,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-28",
+    "confirmed": 110,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 160,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-29",
+    "confirmed": 120,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 161,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-30",
+    "confirmed": 170,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 162,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-3-31",
+    "confirmed": 174,
+    "deaths": 4,
+    "recovered": 5
+  },
+  {
+    "system_id": 163,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-1",
+    "confirmed": 237,
+    "deaths": 4,
+    "recovered": 5
+  },
+  {
+    "system_id": 164,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-2",
+    "confirmed": 273,
+    "deaths": 6,
+    "recovered": 10
+  },
+  {
+    "system_id": 165,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-3",
+    "confirmed": 281,
+    "deaths": 6,
+    "recovered": 10
+  },
+  {
+    "system_id": 166,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-4",
+    "confirmed": 299,
+    "deaths": 7,
+    "recovered": 10
+  },
+  {
+    "system_id": 167,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-5",
+    "confirmed": 349,
+    "deaths": 7,
+    "recovered": 15
+  },
+  {
+    "system_id": 168,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-6",
+    "confirmed": 367,
+    "deaths": 11,
+    "recovered": 18
+  },
+  {
+    "system_id": 169,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-7",
+    "confirmed": 423,
+    "deaths": 14,
+    "recovered": 18
+  },
+  {
+    "system_id": 170,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-8",
+    "confirmed": 444,
+    "deaths": 14,
+    "recovered": 29
+  },
+  {
+    "system_id": 171,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-9",
+    "confirmed": 484,
+    "deaths": 15,
+    "recovered": 32
+  },
+  {
+    "system_id": 172,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-10",
+    "confirmed": 521,
+    "deaths": 15,
+    "recovered": 32
+  },
+  {
+    "system_id": 173,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-11",
+    "confirmed": 555,
+    "deaths": 18,
+    "recovered": 32
+  },
+  {
+    "system_id": 174,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-12",
+    "confirmed": 607,
+    "deaths": 18,
+    "recovered": 32
+  },
+  {
+    "system_id": 175,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-13",
+    "confirmed": 665,
+    "deaths": 21,
+    "recovered": 32
+  },
+  {
+    "system_id": 176,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-14",
+    "confirmed": 714,
+    "deaths": 23,
+    "recovered": 40
+  },
+  {
+    "system_id": 177,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-15",
+    "confirmed": 784,
+    "deaths": 25,
+    "recovered": 43
+  },
+  {
+    "system_id": 178,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-16",
+    "confirmed": 840,
+    "deaths": 30,
+    "recovered": 54
+  },
+  {
+    "system_id": 179,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-17",
+    "confirmed": 906,
+    "deaths": 30,
+    "recovered": 99
+  },
+  {
+    "system_id": 180,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-18",
+    "confirmed": 933,
+    "deaths": 30,
+    "recovered": 112
+  },
+  {
+    "system_id": 181,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-19",
+    "confirmed": 996,
+    "deaths": 33,
+    "recovered": 131
+  },
+  {
+    "system_id": 182,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-20",
+    "confirmed": 1026,
+    "deaths": 36,
+    "recovered": 135
+  },
+  {
+    "system_id": 183,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-21",
+    "confirmed": 1092,
+    "deaths": 36,
+    "recovered": 150
+  },
+  {
+    "system_id": 184,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Afghanistan",
+    "date": "2020-4-22",
+    "confirmed": 1176,
+    "deaths": 40,
+    "recovered": 166
+  },
+  {
+    "system_id": 185,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 186,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 187,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 188,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 189,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 190,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 191,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 192,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 193,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-30",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 194,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-1-31",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 195,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 196,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-2",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 197,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-3",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 198,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-4",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 199,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-5",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 200,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-6",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 201,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-7",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 202,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-8",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 203,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-9",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 204,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-10",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 205,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-11",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 206,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-12",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 207,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-13",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 208,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-14",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 209,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-15",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 210,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-16",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 211,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-17",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 212,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-18",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 213,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-19",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 214,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-20",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 215,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-21",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 216,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 217,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 218,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 219,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 220,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 221,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 222,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 223,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-2-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 224,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 225,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-2",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 226,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-3",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 227,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-4",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 228,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-5",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 229,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-6",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 230,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-7",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 231,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-8",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 232,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-9",
+    "confirmed": 2,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 233,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-10",
+    "confirmed": 10,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 234,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-11",
+    "confirmed": 12,
+    "deaths": 1,
+    "recovered": 0
+  },
+  {
+    "system_id": 235,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-12",
+    "confirmed": 23,
+    "deaths": 1,
+    "recovered": 0
+  },
+  {
+    "system_id": 236,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-13",
+    "confirmed": 33,
+    "deaths": 1,
+    "recovered": 0
+  },
+  {
+    "system_id": 237,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-14",
+    "confirmed": 38,
+    "deaths": 1,
+    "recovered": 0
+  },
+  {
+    "system_id": 238,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-15",
+    "confirmed": 42,
+    "deaths": 1,
+    "recovered": 0
+  },
+  {
+    "system_id": 239,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-16",
+    "confirmed": 51,
+    "deaths": 1,
+    "recovered": 0
+  },
+  {
+    "system_id": 240,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-17",
+    "confirmed": 55,
+    "deaths": 1,
+    "recovered": 0
+  },
+  {
+    "system_id": 241,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-18",
+    "confirmed": 59,
+    "deaths": 2,
+    "recovered": 0
+  },
+  {
+    "system_id": 242,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-19",
+    "confirmed": 64,
+    "deaths": 2,
+    "recovered": 0
+  },
+  {
+    "system_id": 243,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-20",
+    "confirmed": 70,
+    "deaths": 2,
+    "recovered": 0
+  },
+  {
+    "system_id": 244,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-21",
+    "confirmed": 76,
+    "deaths": 2,
+    "recovered": 2
+  },
+  {
+    "system_id": 245,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-22",
+    "confirmed": 89,
+    "deaths": 2,
+    "recovered": 2
+  },
+  {
+    "system_id": 246,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-23",
+    "confirmed": 104,
+    "deaths": 4,
+    "recovered": 2
+  },
+  {
+    "system_id": 247,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-24",
+    "confirmed": 123,
+    "deaths": 5,
+    "recovered": 10
+  },
+  {
+    "system_id": 248,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-25",
+    "confirmed": 146,
+    "deaths": 5,
+    "recovered": 17
+  },
+  {
+    "system_id": 249,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-26",
+    "confirmed": 174,
+    "deaths": 6,
+    "recovered": 17
+  },
+  {
+    "system_id": 250,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-27",
+    "confirmed": 186,
+    "deaths": 8,
+    "recovered": 31
+  },
+  {
+    "system_id": 251,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-28",
+    "confirmed": 197,
+    "deaths": 10,
+    "recovered": 31
+  },
+  {
+    "system_id": 252,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-29",
+    "confirmed": 212,
+    "deaths": 10,
+    "recovered": 33
+  },
+  {
+    "system_id": 253,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-30",
+    "confirmed": 223,
+    "deaths": 11,
+    "recovered": 44
+  },
+  {
+    "system_id": 254,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-3-31",
+    "confirmed": 243,
+    "deaths": 15,
+    "recovered": 52
+  },
+  {
+    "system_id": 255,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-1",
+    "confirmed": 259,
+    "deaths": 15,
+    "recovered": 67
+  },
+  {
+    "system_id": 256,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-2",
+    "confirmed": 277,
+    "deaths": 16,
+    "recovered": 76
+  },
+  {
+    "system_id": 257,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-3",
+    "confirmed": 304,
+    "deaths": 17,
+    "recovered": 89
+  },
+  {
+    "system_id": 258,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-4",
+    "confirmed": 333,
+    "deaths": 20,
+    "recovered": 99
+  },
+  {
+    "system_id": 259,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-5",
+    "confirmed": 361,
+    "deaths": 20,
+    "recovered": 104
+  },
+  {
+    "system_id": 260,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-6",
+    "confirmed": 377,
+    "deaths": 21,
+    "recovered": 116
+  },
+  {
+    "system_id": 261,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-7",
+    "confirmed": 383,
+    "deaths": 22,
+    "recovered": 131
+  },
+  {
+    "system_id": 262,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-8",
+    "confirmed": 400,
+    "deaths": 22,
+    "recovered": 154
+  },
+  {
+    "system_id": 263,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-9",
+    "confirmed": 409,
+    "deaths": 23,
+    "recovered": 165
+  },
+  {
+    "system_id": 264,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-10",
+    "confirmed": 416,
+    "deaths": 23,
+    "recovered": 182
+  },
+  {
+    "system_id": 265,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-11",
+    "confirmed": 433,
+    "deaths": 23,
+    "recovered": 197
+  },
+  {
+    "system_id": 266,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-12",
+    "confirmed": 446,
+    "deaths": 23,
+    "recovered": 217
+  },
+  {
+    "system_id": 267,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-13",
+    "confirmed": 467,
+    "deaths": 23,
+    "recovered": 232
+  },
+  {
+    "system_id": 268,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-14",
+    "confirmed": 475,
+    "deaths": 24,
+    "recovered": 248
+  },
+  {
+    "system_id": 269,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-15",
+    "confirmed": 494,
+    "deaths": 25,
+    "recovered": 251
+  },
+  {
+    "system_id": 270,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-16",
+    "confirmed": 518,
+    "deaths": 26,
+    "recovered": 277
+  },
+  {
+    "system_id": 271,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-17",
+    "confirmed": 539,
+    "deaths": 26,
+    "recovered": 283
+  },
+  {
+    "system_id": 272,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-18",
+    "confirmed": 548,
+    "deaths": 26,
+    "recovered": 302
+  },
+  {
+    "system_id": 273,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-19",
+    "confirmed": 562,
+    "deaths": 26,
+    "recovered": 314
+  },
+  {
+    "system_id": 274,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-20",
+    "confirmed": 584,
+    "deaths": 26,
+    "recovered": 327
+  },
+  {
+    "system_id": 275,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-21",
+    "confirmed": 609,
+    "deaths": 26,
+    "recovered": 345
+  },
+  {
+    "system_id": 276,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Albania",
+    "date": "2020-4-22",
+    "confirmed": 634,
+    "deaths": 27,
+    "recovered": 356
+  },
+  {
+    "system_id": 277,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 278,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 279,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 280,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 281,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 282,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 283,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 284,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 285,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-30",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 286,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-1-31",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 287,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 288,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-2",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 289,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-3",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 290,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-4",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 291,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-5",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 292,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-6",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 293,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-7",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 294,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-8",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 295,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-9",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 296,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-10",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 297,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-11",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 298,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-12",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 299,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-13",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 300,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-14",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 301,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-15",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 302,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-16",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 303,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-17",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 304,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-18",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 305,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-19",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 306,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-20",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 307,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-21",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 308,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 309,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 310,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 311,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-25",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 312,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-26",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 313,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-27",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 314,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-28",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 315,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-2-29",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 316,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-1",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 317,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-2",
+    "confirmed": 3,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 318,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-3",
+    "confirmed": 5,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 319,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-4",
+    "confirmed": 12,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 320,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-5",
+    "confirmed": 12,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 321,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-6",
+    "confirmed": 17,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 322,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-7",
+    "confirmed": 17,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 323,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-8",
+    "confirmed": 19,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 324,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-9",
+    "confirmed": 20,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 325,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-10",
+    "confirmed": 20,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 326,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-11",
+    "confirmed": 20,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 327,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-12",
+    "confirmed": 24,
+    "deaths": 1,
+    "recovered": 8
+  },
+  {
+    "system_id": 328,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-13",
+    "confirmed": 26,
+    "deaths": 2,
+    "recovered": 8
+  },
+  {
+    "system_id": 329,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-14",
+    "confirmed": 37,
+    "deaths": 3,
+    "recovered": 12
+  },
+  {
+    "system_id": 330,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-15",
+    "confirmed": 48,
+    "deaths": 4,
+    "recovered": 12
+  },
+  {
+    "system_id": 331,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-16",
+    "confirmed": 54,
+    "deaths": 4,
+    "recovered": 12
+  },
+  {
+    "system_id": 332,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-17",
+    "confirmed": 60,
+    "deaths": 4,
+    "recovered": 12
+  },
+  {
+    "system_id": 333,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-18",
+    "confirmed": 74,
+    "deaths": 7,
+    "recovered": 12
+  },
+  {
+    "system_id": 334,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-19",
+    "confirmed": 87,
+    "deaths": 9,
+    "recovered": 32
+  },
+  {
+    "system_id": 335,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-20",
+    "confirmed": 90,
+    "deaths": 11,
+    "recovered": 32
+  },
+  {
+    "system_id": 336,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-21",
+    "confirmed": 139,
+    "deaths": 15,
+    "recovered": 32
+  },
+  {
+    "system_id": 337,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-22",
+    "confirmed": 201,
+    "deaths": 17,
+    "recovered": 65
+  },
+  {
+    "system_id": 338,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-23",
+    "confirmed": 230,
+    "deaths": 17,
+    "recovered": 65
+  },
+  {
+    "system_id": 339,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-24",
+    "confirmed": 264,
+    "deaths": 19,
+    "recovered": 24
+  },
+  {
+    "system_id": 340,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-25",
+    "confirmed": 302,
+    "deaths": 21,
+    "recovered": 65
+  },
+  {
+    "system_id": 341,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-26",
+    "confirmed": 367,
+    "deaths": 25,
+    "recovered": 29
+  },
+  {
+    "system_id": 342,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-27",
+    "confirmed": 409,
+    "deaths": 26,
+    "recovered": 29
+  },
+  {
+    "system_id": 343,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-28",
+    "confirmed": 454,
+    "deaths": 29,
+    "recovered": 31
+  },
+  {
+    "system_id": 344,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-29",
+    "confirmed": 511,
+    "deaths": 31,
+    "recovered": 31
+  },
+  {
+    "system_id": 345,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-30",
+    "confirmed": 584,
+    "deaths": 35,
+    "recovered": 37
+  },
+  {
+    "system_id": 346,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-3-31",
+    "confirmed": 716,
+    "deaths": 44,
+    "recovered": 46
+  },
+  {
+    "system_id": 347,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-1",
+    "confirmed": 847,
+    "deaths": 58,
+    "recovered": 61
+  },
+  {
+    "system_id": 348,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-2",
+    "confirmed": 986,
+    "deaths": 86,
+    "recovered": 61
+  },
+  {
+    "system_id": 349,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-3",
+    "confirmed": 1171,
+    "deaths": 105,
+    "recovered": 62
+  },
+  {
+    "system_id": 350,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-4",
+    "confirmed": 1251,
+    "deaths": 130,
+    "recovered": 90
+  },
+  {
+    "system_id": 351,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-5",
+    "confirmed": 1320,
+    "deaths": 152,
+    "recovered": 90
+  },
+  {
+    "system_id": 352,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-6",
+    "confirmed": 1423,
+    "deaths": 173,
+    "recovered": 90
+  },
+  {
+    "system_id": 353,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-7",
+    "confirmed": 1468,
+    "deaths": 193,
+    "recovered": 113
+  },
+  {
+    "system_id": 354,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-8",
+    "confirmed": 1572,
+    "deaths": 205,
+    "recovered": 237
+  },
+  {
+    "system_id": 355,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-9",
+    "confirmed": 1666,
+    "deaths": 235,
+    "recovered": 347
+  },
+  {
+    "system_id": 356,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-10",
+    "confirmed": 1761,
+    "deaths": 256,
+    "recovered": 405
+  },
+  {
+    "system_id": 357,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-11",
+    "confirmed": 1825,
+    "deaths": 275,
+    "recovered": 460
+  },
+  {
+    "system_id": 358,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-12",
+    "confirmed": 1914,
+    "deaths": 293,
+    "recovered": 591
+  },
+  {
+    "system_id": 359,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-13",
+    "confirmed": 1983,
+    "deaths": 313,
+    "recovered": 601
+  },
+  {
+    "system_id": 360,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-14",
+    "confirmed": 2070,
+    "deaths": 326,
+    "recovered": 691
+  },
+  {
+    "system_id": 361,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-15",
+    "confirmed": 2160,
+    "deaths": 336,
+    "recovered": 708
+  },
+  {
+    "system_id": 362,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-16",
+    "confirmed": 2268,
+    "deaths": 348,
+    "recovered": 783
+  },
+  {
+    "system_id": 363,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-17",
+    "confirmed": 2418,
+    "deaths": 364,
+    "recovered": 846
+  },
+  {
+    "system_id": 364,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-18",
+    "confirmed": 2534,
+    "deaths": 367,
+    "recovered": 894
+  },
+  {
+    "system_id": 365,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-19",
+    "confirmed": 2629,
+    "deaths": 375,
+    "recovered": 1047
+  },
+  {
+    "system_id": 366,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-20",
+    "confirmed": 2718,
+    "deaths": 384,
+    "recovered": 1099
+  },
+  {
+    "system_id": 367,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-21",
+    "confirmed": 2811,
+    "deaths": 392,
+    "recovered": 1152
+  },
+  {
+    "system_id": 368,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Algeria",
+    "date": "2020-4-22",
+    "confirmed": 2910,
+    "deaths": 402,
+    "recovered": 1204
+  },
+  {
+    "system_id": 369,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 370,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 371,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 372,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 373,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 374,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 375,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 376,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 377,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-30",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 378,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-1-31",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 379,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 380,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-2",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 381,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-3",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 382,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-4",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 383,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-5",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 384,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-6",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 385,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-7",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 386,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-8",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 387,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-9",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 388,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-10",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 389,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-11",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 390,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-12",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 391,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-13",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 392,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-14",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 393,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-15",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 394,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-16",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 395,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-17",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 396,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-18",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 397,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-19",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 398,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-20",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 399,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-21",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 400,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 401,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 402,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 403,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 404,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 405,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 406,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 407,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-2-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 408,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 409,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-2",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 410,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-3",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 411,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-4",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 412,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-5",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 413,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-6",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 414,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-7",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 415,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-8",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 416,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-9",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 417,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-10",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 418,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-11",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 419,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-12",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 420,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-13",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 421,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-14",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 422,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-15",
+    "confirmed": 1,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 423,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-16",
+    "confirmed": 2,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 424,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-17",
+    "confirmed": 39,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 425,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-18",
+    "confirmed": 39,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 426,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-19",
+    "confirmed": 53,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 427,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-20",
+    "confirmed": 75,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 428,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-21",
+    "confirmed": 88,
+    "deaths": 0,
+    "recovered": 1
+  },
+  {
+    "system_id": 429,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-22",
+    "confirmed": 113,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 430,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-23",
+    "confirmed": 133,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 431,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-24",
+    "confirmed": 164,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 432,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-25",
+    "confirmed": 188,
+    "deaths": 1,
+    "recovered": 1
+  },
+  {
+    "system_id": 433,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-26",
+    "confirmed": 224,
+    "deaths": 3,
+    "recovered": 1
+  },
+  {
+    "system_id": 434,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-27",
+    "confirmed": 267,
+    "deaths": 3,
+    "recovered": 1
+  },
+  {
+    "system_id": 435,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-28",
+    "confirmed": 308,
+    "deaths": 3,
+    "recovered": 1
+  },
+  {
+    "system_id": 436,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-29",
+    "confirmed": 334,
+    "deaths": 6,
+    "recovered": 1
+  },
+  {
+    "system_id": 437,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-30",
+    "confirmed": 370,
+    "deaths": 8,
+    "recovered": 10
+  },
+  {
+    "system_id": 438,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-3-31",
+    "confirmed": 376,
+    "deaths": 12,
+    "recovered": 10
+  },
+  {
+    "system_id": 439,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-1",
+    "confirmed": 390,
+    "deaths": 14,
+    "recovered": 10
+  },
+  {
+    "system_id": 440,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-2",
+    "confirmed": 428,
+    "deaths": 15,
+    "recovered": 10
+  },
+  {
+    "system_id": 441,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-3",
+    "confirmed": 439,
+    "deaths": 16,
+    "recovered": 16
+  },
+  {
+    "system_id": 442,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-4",
+    "confirmed": 466,
+    "deaths": 17,
+    "recovered": 21
+  },
+  {
+    "system_id": 443,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-5",
+    "confirmed": 501,
+    "deaths": 18,
+    "recovered": 26
+  },
+  {
+    "system_id": 444,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-6",
+    "confirmed": 525,
+    "deaths": 21,
+    "recovered": 31
+  },
+  {
+    "system_id": 445,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-7",
+    "confirmed": 545,
+    "deaths": 22,
+    "recovered": 39
+  },
+  {
+    "system_id": 446,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-8",
+    "confirmed": 564,
+    "deaths": 23,
+    "recovered": 52
+  },
+  {
+    "system_id": 447,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-9",
+    "confirmed": 583,
+    "deaths": 25,
+    "recovered": 58
+  },
+  {
+    "system_id": 448,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-10",
+    "confirmed": 601,
+    "deaths": 26,
+    "recovered": 71
+  },
+  {
+    "system_id": 449,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-11",
+    "confirmed": 601,
+    "deaths": 26,
+    "recovered": 71
+  },
+  {
+    "system_id": 450,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-12",
+    "confirmed": 638,
+    "deaths": 29,
+    "recovered": 128
+  },
+  {
+    "system_id": 451,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-13",
+    "confirmed": 646,
+    "deaths": 29,
+    "recovered": 128
+  },
+  {
+    "system_id": 452,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-14",
+    "confirmed": 659,
+    "deaths": 31,
+    "recovered": 128
+  },
+  {
+    "system_id": 453,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-15",
+    "confirmed": 673,
+    "deaths": 33,
+    "recovered": 169
+  },
+  {
+    "system_id": 454,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-16",
+    "confirmed": 673,
+    "deaths": 33,
+    "recovered": 169
+  },
+  {
+    "system_id": 455,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-17",
+    "confirmed": 696,
+    "deaths": 35,
+    "recovered": 191
+  },
+  {
+    "system_id": 456,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-18",
+    "confirmed": 704,
+    "deaths": 35,
+    "recovered": 205
+  },
+  {
+    "system_id": 457,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-19",
+    "confirmed": 713,
+    "deaths": 36,
+    "recovered": 235
+  },
+  {
+    "system_id": 458,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-20",
+    "confirmed": 717,
+    "deaths": 37,
+    "recovered": 248
+  },
+  {
+    "system_id": 459,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-21",
+    "confirmed": 717,
+    "deaths": 37,
+    "recovered": 282
+  },
+  {
+    "system_id": 460,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Andorra",
+    "date": "2020-4-22",
+    "confirmed": 723,
+    "deaths": 37,
+    "recovered": 309
+  },
+  {
+    "system_id": 461,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 462,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 463,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 464,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 465,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 466,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 467,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 468,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 469,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-30",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 470,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-1-31",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 471,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 472,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-2",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 473,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-3",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 474,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-4",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 475,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-5",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 476,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-6",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 477,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-7",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 478,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-8",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 479,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-9",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 480,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-10",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 481,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-11",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 482,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-12",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 483,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-13",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 484,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-14",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 485,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-15",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 486,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-16",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 487,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-17",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 488,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-18",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 489,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-19",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 490,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-20",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 491,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-21",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 492,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-22",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 493,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-23",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 494,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-24",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 495,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-25",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 496,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-26",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 497,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-27",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 498,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-28",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 499,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-2-29",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  },
+  {
+    "system_id": 500,
+    "date_created": "2020-04-24T04:11:28.757997+00:00",
+    "country": "Angola",
+    "date": "2020-3-1",
+    "confirmed": 0,
+    "deaths": 0,
+    "recovered": 0
+  }
+]
